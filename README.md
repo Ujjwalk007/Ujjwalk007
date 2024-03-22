@@ -127,8 +127,8 @@
 
 <ul>
 
-<a href="https://github.com/Ujjwalk007" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Ujjwalk007-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://www.linkedin.com/in/ujjwal-kulkarni-45a194252/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Ujjwal Kulkarni-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
 
