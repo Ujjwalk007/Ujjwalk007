@@ -12,7 +12,7 @@
 
 
 	
- <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+ ## <picture><img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-eedtw&psig=AOvVaw1RBZWPxVRCD3aa16g5H1MF&ust=1736101118111000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjs5-bW3IoDFQAAAAAdAAAAABAE" width = 50px></picture> **About me**
 
 
 
