@@ -12,7 +12,7 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+ <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 
 
@@ -22,7 +22,7 @@
 - Learning  Python, Data Analysis and Machine Learning 
 - A passionate Web developer, Currently learning Web Development Using MERN Stack
 - Do try my small React Project [TaskMaster](https://taskmasterapp.onrender.com/)
-- Always excited to learn new technologies,open for an Intern or a new job opportunity.
+- Always excited to learn new technologies,open for an Intern or a job opportunity.
 
 <br><br>
 
