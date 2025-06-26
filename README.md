@@ -21,7 +21,6 @@
 - ML/Data Science Enthusiast 
 - Learning  Python, Data Analysis and Machine Learning 
 - A passionate Web developer, Currently learning Web Development Using MERN Stack
-- Do try my small React Project [TaskMaster](https://taskmasterapp.onrender.com/)
 - Always excited to learn new technologies,open for an Intern or a job opportunity.
 
 <br><br>
