@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Ujjwal Kulkarni</h1>
 <h3 align="center">Software Engineer | .NET Backend Developer | AI Enthusiast</h3>
 
@@ -88,4 +87,3 @@ Currently I'm focused on:
 ---
 
 > *Always learning. Always building.*
-```
