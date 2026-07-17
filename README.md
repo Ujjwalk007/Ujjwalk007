@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Kulkarni</h1>
-<h3 align="center">Software Engineer | .NET Backend Developer | AI Enthusiast</h3>
+<h3 align="center">Software Engineer | .NET Backend Developer | AI Engineer</h3>
 
 ---
 
 ## 🚀 About Me
 
-I'm a Software Engineer with around a year of professional experience building backend and AI-Powered applications using the Microsoft ecosystem.
+I'm a Software Engineer with around a year of professional experience building backend and AI-Powered applications.
 
 Currently I'm focused on:
 
