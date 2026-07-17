@@ -67,18 +67,6 @@ Currently I'm focused on:
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ujjwalk007&show_icons=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwalk007&layout=compact" height="170"/>
-
-</div>
-
----
-
 ## 📫 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/ujjwal-kulkarni-45a194252/
